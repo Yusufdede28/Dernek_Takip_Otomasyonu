@@ -1,0 +1,11 @@
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\BusinessLayer\obj\Debug\BusinesLayer.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\BusinessLayer\obj\Debug\BusinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\BusinessLayer\obj\Debug\BusinesLayer.csproj.CopyComplete
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\BusinessLayer\obj\Debug\BusinessLayer.pdb

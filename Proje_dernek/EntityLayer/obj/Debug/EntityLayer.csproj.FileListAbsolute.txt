@@ -1,0 +1,6 @@
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Final\Proje_dernek\EntityLayer\obj\Debug\EntityLayer.pdb
